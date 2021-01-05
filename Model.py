@@ -1,10 +1,6 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Aug 21 21:15:20 2020
 
-@author: SHANMUKH CHAVA
-"""
-import pandas
+import pandas as pd
 
 from sklearn import linear_model,preprocessing,svm,neighbors
 import sklearn
